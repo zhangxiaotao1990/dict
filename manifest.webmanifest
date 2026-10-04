@@ -1,0 +1,15 @@
+{
+  "name": "词典",
+  "short_name": "词典",
+  "description": "离线 MDict 词典：搜索、释义、真人发音",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f6f8",
+  "theme_color": "#f6f6f8",
+  "lang": "zh-CN",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
